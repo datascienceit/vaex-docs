@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Vaex-docs\n\n\nIntroduction\n\n\nWelcome to the Vaex API! You can use our API to create machine learning pipeline in 10th of the time, ready for production. We aim to empower data scientists to work on exploration, cleaning, and modeling, all the way to production without changing APIs, and technologies.\n\n\nWe have language bindings Python, and a CLI for some common tasks we wanted to automate.\n\n\nMkdocs\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nInstallation\n\n\nclone...\npython setup install\nTODO\n\n\n\n\n\n\nQuick start\n\n\nTransformations\n\n\nModeling\n\n\nDeployment\n\n\nPrediction",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-vaex-docs",
+            "text": "",
+            "title": "Welcome to Vaex-docs"
+        },
+        {
+            "location": "/#introduction",
+            "text": "Welcome to the Vaex API! You can use our API to create machine learning pipeline in 10th of the time, ready for production. We aim to empower data scientists to work on exploration, cleaning, and modeling, all the way to production without changing APIs, and technologies.  We have language bindings Python, and a CLI for some common tasks we wanted to automate.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#mkdocs",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Mkdocs"
+        },
+        {
+            "location": "/#installation",
+            "text": "clone...\npython setup install\nTODO",
+            "title": "Installation"
+        },
+        {
+            "location": "/#quick-start",
+            "text": "",
+            "title": "Quick start"
+        },
+        {
+            "location": "/#transformations",
+            "text": "",
+            "title": "Transformations"
+        },
+        {
+            "location": "/#modeling",
+            "text": "",
+            "title": "Modeling"
+        },
+        {
+            "location": "/#deployment",
+            "text": "",
+            "title": "Deployment"
+        },
+        {
+            "location": "/#prediction",
+            "text": "",
+            "title": "Prediction"
+        }
+    ]
+}
